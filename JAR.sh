@@ -105,7 +105,7 @@ sleep 2
 else
 echo "\033[91;1mWrong Input. Try Again!!!!"
 sleep 2
-sh hek.sh
+sh JAR.sh
 fi
 clear
 sleep 1
