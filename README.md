@@ -1,7 +1,7 @@
 # JAR
 ##### Just Another Repo 
 
-## Commabdss
+## Commands
 git clone https://github.com/Err0r-ICA/JAR <br>
 cd JAR <br>
 sh JAR <br>
