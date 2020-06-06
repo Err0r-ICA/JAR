@@ -1,5 +1,4 @@
-# JAR
-##### Just Another Repo 
+![logo](https://i.postimg.cc/x9v80djN/20200606-020927.jpg) 
 
 ## Commands
 git clone https://github.com/Err0r-ICA/JAR <br>
