@@ -1,9 +1,11 @@
 ![logo](https://i.postimg.cc/x9v80djN/20200606-020927.jpg) 
 
 ## Commands
-git clone https://github.com/Err0r-ICA/JAR <br>
-cd JAR <br>
-sh JAR <br>
+```
+【✔】git clone https://github.com/Err0r-ICA/JAR
+【✔】cd JAR
+【✔】sh JAR
+```
 
 <p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
