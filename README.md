@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/x9v80djN/20200606-020927.jpg) 
 
-## Commands
+## 👤 Installation 👤
 ```
 【✔】git clone https://github.com/Err0r-ICA/JAR
 【✔】cd JAR
@@ -13,10 +13,10 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/LHLctpKF/Screenshot-20200425-143306-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
