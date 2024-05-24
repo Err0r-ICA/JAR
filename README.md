@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/x9v80djN/20200606-020927.jpg) 
+![logo](https://i.postimg.cc/fWw55M7r/OIG1-3.jpg) 
 
 ## 👤 Installation 👤
 ```
@@ -16,10 +16,9 @@
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/LHLctpKF/Screenshot-20200425-143306-Termux.jpg) 
 
-### 👤 My Accounts 👤
-* [TELEGRAM](https://t.me/kalit3rmux)
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+### 👤 Connect with me 👤
+<a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://t.me/hacking1337stuff"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
