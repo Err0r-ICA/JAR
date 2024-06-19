@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/fWw55M7r/OIG1-3.jpg) 
+![logo](https://i.ibb.co/khXGwZ2/OIG1-3.jpg) 
 
 ## 👤 Installation 👤
 ```
