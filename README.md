@@ -18,7 +18,9 @@
 
 ### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://instagram.com/defacer1337"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.tiktok.com/@err0r_hb?_t=8qVhutK5QKf&_r=1"><img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
+<a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
